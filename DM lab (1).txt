@@ -1,0 +1,21 @@
+1
+(a) Data Processing Techniques:
+     (i) Data cleaning (ii) Data transformation – Normalization (iii) Data integration
+(b) Calculating Information gain measures
+
+
+2
+ (a)Partitioning - Horizontal, Vertical, Round Robin, Hash based
+ (b)Implementation of Decision Tree Induction
+
+3
+ (a)Data Warehouse schemas – star, snowflake, fact constellation
+ (b)Implementation of FP – Growth algorithm
+
+4
+ (a)Data cube construction – OLAP operations
+ (b)Implementation of apriori algorithm
+
+5
+ (a)Data Extraction, Transformations & Loading operations
+ (b)Implementation of Attribute oriented induction algorithm
